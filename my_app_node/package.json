@@ -1,0 +1,24 @@
+{
+  "name": "my_app_node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/filunieto/Hickathon.git"
+  },
+  "author": "Fni",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/filunieto/Hickathon/issues"
+  },
+  "homepage": "https://github.com/filunieto/Hickathon#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "postgres": "^3.3.4",
+    "sequelize": "^6.31.1"
+  }
+}
